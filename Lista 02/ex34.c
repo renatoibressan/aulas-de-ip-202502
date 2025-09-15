@@ -13,7 +13,7 @@ int main() {
     num = n;
     if (num > den) {
         menor = den;
-    }else if (den > num) {
+    } else if (den > num) {
         menor = num;
     }
     for (i = 2; i <= menor; i++) {
