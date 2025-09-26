@@ -4,7 +4,6 @@
 int main() {
     int n;
     char c[1001], aux;
-    char invert[1001];
     int i, j;
     scanf("%d", &n);
     while (n--) {
@@ -24,4 +23,5 @@ int main() {
         }
         printf("%s\n", c);
     }
+
 }
