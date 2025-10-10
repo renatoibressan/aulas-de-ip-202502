@@ -26,4 +26,5 @@ int main() {
     scanf ("%d %lf", &x, &y);
     pBytes((unsigned char *)&x, sizeof(int));
     pBytes((unsigned char *)&y, sizeof(double));
+    return 0;
 }
