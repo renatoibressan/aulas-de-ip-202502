@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Ordena 4 números
 int main() {
     float a, b, c, d;
     scanf("%f", &a);
