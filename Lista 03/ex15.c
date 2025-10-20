@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Sequência Espelho
 int main() {
     int c;
     scanf("%d", &c);
