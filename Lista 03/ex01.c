@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define n 100000
-
+// Achei
 int main() {
     int t;
     int v[n];
