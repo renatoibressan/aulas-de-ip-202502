@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Frequência de Letras
 int main() {
     int n;
     scanf("%d", &n);
