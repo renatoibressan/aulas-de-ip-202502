@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define N 101
-
+// Maior Frequencia
 int freq[N];
 int menor(int x, int y) {
     if (x < y) return x;
