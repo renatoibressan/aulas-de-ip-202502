@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define n 1000
-
+// LED
 int main() {
     int led[] = {2, 5, 5, 4, 5, 6, 3, 7, 6, 6}, k = 0, soma = 0;
     char num[100];
