@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Prefixo de Uma String
 void allocate(int n, char s[]) {
     int i;
     if (n >= strlen(s)) {
@@ -24,4 +24,5 @@ int main() {
         allocate(m, s);
     }
     return 0;
+
 }
