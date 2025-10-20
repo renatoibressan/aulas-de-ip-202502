@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//  Transforma decimal em fração
 int main() {
     double n;
     int num, den = 1;
@@ -24,4 +24,5 @@ int main() {
     }
     printf("%d/%d\n", num, den);
     return 0;
+
 }
