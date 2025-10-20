@@ -24,5 +24,5 @@ int main() {
     }
     printf("%d/%d\n", num, den);
     return 0;
-
 }
+
