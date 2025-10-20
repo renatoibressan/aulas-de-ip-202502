@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Aprovado ou Reprovado
 int main() {
     float n1, n2, n3, M;
     scanf("%f %f %f", &n1, &n2, &n3);
