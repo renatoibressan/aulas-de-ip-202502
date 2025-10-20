@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Soma dos 3 menores
 int main() {
     int a, b, c, d, soma;
     scanf("%d", &a);
