@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//  Série de pares
 int main() {
     int n, m;
     int i;
