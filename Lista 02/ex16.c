@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// Raízes de equações de grau 2
 int main() {
     float a, b, c;
     scanf("%f %f %f", &a, &b, &c);
