@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Sequência intercalada
 int main() {
     int tamanho;
     int n1, n2;
