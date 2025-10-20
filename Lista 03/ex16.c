@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Subtração e produto de conjuntos
 int main() {
     int ta, tb;
     while (ta < 1 || ta > 100) scanf("%d", &ta);
