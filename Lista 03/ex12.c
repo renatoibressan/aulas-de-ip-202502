@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define N 1000000
-
+// Mediana
 int v[N];
 int main() {
     int n = 1;
