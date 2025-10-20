@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Sentença Dançante
 int main() {
     char v[60];
     while (scanf("%[^\n]%*c", v) != EOF) {
