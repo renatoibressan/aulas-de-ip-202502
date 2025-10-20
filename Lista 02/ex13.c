@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Média de pares e ímpares
 int main() {
     int n;
     int qnp = 0, qni = 0, sp = 0, si = 0;
