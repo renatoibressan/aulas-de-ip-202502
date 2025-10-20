@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// José
 int main() {
     int q, a1, b1, a2, b2;
     int i;
