@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Elementos Únicos
 int main() {
     int v[1001];
     int k;
