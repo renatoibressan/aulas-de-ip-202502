@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Composição Inteira
 int main() {
     int n1, n2, n3, q;
     scanf("%d", &n1);
@@ -20,4 +20,5 @@ int main() {
     q = n1 * 100 + n2 * 10 + n3;
     printf("%d, %d", q, q * q);
     return 0;
+
 }
