@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Dados
 int main() {
     int n, k = 0;
     int i, j;
