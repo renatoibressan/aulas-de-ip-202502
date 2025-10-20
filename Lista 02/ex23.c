@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Lucro de Mercadorias
 int main() {
     unsigned long int code;
     float compra, compratotal = 0.0;
