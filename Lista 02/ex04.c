@@ -10,6 +10,5 @@ int main() {
         c = (5 * (f - 32))/9;
         printf("%.2lf FAHRENHEIT EQUIVALE A %.2lf CELSIUS\n", f, c);
     }
-    return 0;
-
+    return 0;
 }
