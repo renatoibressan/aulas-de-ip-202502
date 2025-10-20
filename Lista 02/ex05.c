@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//  Divisível por 3 e 5
 int main() {
     int n;
     scanf("%d", &n);
