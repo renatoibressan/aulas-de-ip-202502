@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// Série de Taylor para a função e**x
 unsigned long int fatorial(int a) {
     int i = 1;
     unsigned long int f = 1;
