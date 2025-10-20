@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Procura Caractere
 int find(char A, char const * B) {
     int i;
     for (i = 0; B[i] != '\0'; i++) {
