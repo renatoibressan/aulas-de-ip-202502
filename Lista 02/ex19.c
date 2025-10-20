@@ -15,5 +15,5 @@ int main() {
         printf("ACO DE GRAU = 7\n");
     }
     return 0;
-
 }
+
