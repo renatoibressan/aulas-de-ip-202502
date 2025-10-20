@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define n 10000
-
+// Quantas Letras?
 int main() {
     int i, j;
     char v[n];
