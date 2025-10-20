@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Decomposição em fatores primos
 int main() {
     int n;
     int checkup = 0;
