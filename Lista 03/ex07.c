@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #define N 999999
-
+// Zero Vale Zero
 int main() {
     int m = 1;
     int n = 1;
