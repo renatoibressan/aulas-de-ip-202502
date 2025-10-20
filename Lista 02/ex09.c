@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Ultrapassagem populacional
 int main() {
     int pop1, pop2;
     int x = 0;
