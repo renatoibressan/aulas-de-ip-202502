@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Professor de Fibonacci
 int main() {
     int n, f1, f2;
     int a1, a2;
