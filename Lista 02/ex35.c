@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Procura por número amigo
 int soma_divisores(int a) {
     int soma = 0;
     int i;
