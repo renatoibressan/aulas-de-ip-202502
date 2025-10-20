@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Número primo
 int main() {
     int n, i;
     int m = 0;
