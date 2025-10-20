@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Conversão de temperatura
 int main() {
     int n;
     double f, c;
@@ -11,4 +11,5 @@ int main() {
         printf("%.2lf FAHRENHEIT EQUIVALE A %.2lf CELSIUS\n", f, c);
     }
     return 0;
+
 }
