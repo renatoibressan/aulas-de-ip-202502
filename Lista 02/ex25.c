@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// N ao cubo
 int main() {
     int n, i, j;
     int impar = 1;
