@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-
+// string to double
 double string2double(const char * str);
 
 int main() {
