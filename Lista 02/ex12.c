@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Maior segmento crescente de uma sequência
 int main() {
     int k, n;
     int ultimo = -999999;
