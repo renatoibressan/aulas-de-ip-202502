@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Criptografia
 int main() {
     int n;
     char c[1001], aux;
@@ -25,4 +25,5 @@ int main() {
     }
     return 0;
 }
+
 
