@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Mínimo múltiplo comum
 int main() {
     int n1, n2, n3;
     int mmc = 1;
@@ -28,4 +28,5 @@ int main() {
     }
     printf("MMC: %d\n", mmc);
     return 0;
+
 }
