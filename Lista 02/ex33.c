@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Calcular Dígito Verificador do Titulo de Eleitor
 int tamanho_seq(int a) {
     int tamanho = 0;
     while (a > 0) {
@@ -44,4 +44,5 @@ int main() {
         printf("%d%d/%d%d\n", sequencial, code, d1, d2);
     }
     return 0;
+
 }
