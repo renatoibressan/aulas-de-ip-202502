@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Triângulo de Pascal
 int main() {
     int n, p, m, c, i;
     unsigned long int fm;
