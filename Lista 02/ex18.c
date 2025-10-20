@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Transcrição de datas
 int main() {
     int data;
     int dia, mes, ano;
