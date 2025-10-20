@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Hipotenusas inteiras
 int main() {
     int n;
     int c1, c2, h;
