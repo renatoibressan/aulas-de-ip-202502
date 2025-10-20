@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//  Número perfeito
 int main() {
     int n, i;
     int soma = 0;
