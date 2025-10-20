@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Grãos de milho no tabuleiro de xadrez
 int main() {
     int n, b, p, graos;
     scanf("%d", &n);
