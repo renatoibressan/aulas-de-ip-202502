@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define n 1000
-
+// Elementos Pares do Vetor
 int main() {
     int t;
     int v[n];
