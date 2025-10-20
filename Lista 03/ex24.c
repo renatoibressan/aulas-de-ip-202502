@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// string to int
 long int string2int(const char * str);
 
 int main() {
