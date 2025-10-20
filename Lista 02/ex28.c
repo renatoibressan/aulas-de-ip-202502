@@ -1,10 +1,9 @@
 #include <stdio.h>
-
+// Ordem
 int main() {
     int n1, n2, n3;
     char c1, c2, c3;
     int big, mid, small;
-
     scanf("%d%d%d", &n1, &n2, &n3);
     scanf("%*c%c%c%c", &c1, &c2, &c3);
     big = mid = small = n1;
