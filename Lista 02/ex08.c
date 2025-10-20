@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//  Turma de Introdução à Programação
 int main() {
     int matricula, freq;
     double np1, np2, np3, np4, np5, np6, np7, np8, nl1, nl2, nl3, nl4, nl5, nt;
@@ -22,4 +22,5 @@ int main() {
         }
     }
     return 0;
+
 }
