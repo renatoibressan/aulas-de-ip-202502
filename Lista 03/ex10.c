@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Conversão de Decimal para Binário
 int dec2bin(int n) {
     int binario[32];
     int i = 0;
