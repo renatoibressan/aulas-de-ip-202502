@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Limpa String
 char str_clean(char str[], char clr[]);
 
 int main() {
