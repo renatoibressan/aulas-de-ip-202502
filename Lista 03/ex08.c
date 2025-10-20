@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <string.h>
-
+//  Acumulado de Elementos
 int main() {
     int n, i, j, aux, atual, k, count;
     int v[10000];
