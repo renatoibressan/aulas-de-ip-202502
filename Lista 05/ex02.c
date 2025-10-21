@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define N 1000
-
+// Diagonal Principal
 int main() {
     int n;
     scanf("%d", &n);
