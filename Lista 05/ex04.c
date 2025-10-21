@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+// Quadrado de matriz 2x2
 int main() {
     float m[2][2];
     scanf("%f %f %f %f", &m[0][0], &m[0][1], &m[1][0], &m[1][1]);
