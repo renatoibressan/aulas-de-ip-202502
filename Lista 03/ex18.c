@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Aula Cancelada
 int main() {
     int n, k;
     scanf("%d %d", &n, &k);
@@ -17,4 +17,5 @@ int main() {
         }
     }
     return 0;
+
 }
