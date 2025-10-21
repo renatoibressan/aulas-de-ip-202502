@@ -2,7 +2,7 @@
 #define NMAX_W 100
 #define NMAX_CHW 50
 #define NMAX_LINE NMAX_CHW * NMAX_W + NMAX_W
-
+// Aliteração
 void extraiIniciais(char * const txt, char * iniciais, int * n) {
     int i = 0, k = 0;
     while (txt[i] != '\0') {
