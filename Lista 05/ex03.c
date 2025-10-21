@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define N 1000
-
+// Diagonal Secundária
 int main() {
     int n;
     scanf("%d", &n);
