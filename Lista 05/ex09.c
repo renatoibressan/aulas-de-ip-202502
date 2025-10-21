@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define N 100
-
+// Operações matriciais
 int traco(int m[100][100], int n) {
     int i, v[N] = {0}, soma = 0;
     for (i = 0; i < n; i++) {
