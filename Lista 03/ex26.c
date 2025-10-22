@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Loteria
 int main() {
     int v[6], i, n;
     for (i = 0; i < 6; i++) {
