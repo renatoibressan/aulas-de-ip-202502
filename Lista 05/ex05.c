@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Ampulheta
 int main() {
     int m[6][6];
     int l, c;
