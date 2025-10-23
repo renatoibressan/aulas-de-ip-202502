@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define NL 100
 #define NC 100
-
+// Desenha bordas
 int main() {
     int m[NL][NC];
     int nl, nc, k, x;
