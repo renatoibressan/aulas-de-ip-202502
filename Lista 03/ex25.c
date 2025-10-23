@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Frequência de Strings
 char delimitador[11] = {' ', '.', ',', '!', '?', '(', ')', '[', ']', '{', '}'};
 
 int temDelimitador(char c) {
