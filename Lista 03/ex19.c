@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Avance as Letras
 int diferenca(char * a, char * b) {
     if (strlen(a) != strlen(b)) return -1;
     int i, soma = 0;
