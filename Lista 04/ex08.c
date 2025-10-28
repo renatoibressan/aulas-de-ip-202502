@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// Próxima potência
 int next_power(int n, int p) {
     int i = 0;
     while (pow(i, p) < n) i++;
