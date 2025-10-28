@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Número Invertido
 int separaDigitos(int abc, int a, int b, int c) {
     int ab = abc / 10;
     b = ab % 10;
