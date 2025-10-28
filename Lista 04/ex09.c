@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Valor em Notas e Moedas
 int converteEmNotasMoedas(int valor, int n100, int n50, int n10, int m1) {
     n100 = valor / 100;
     int i = valor % 100;
