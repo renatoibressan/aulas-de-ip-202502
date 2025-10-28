@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Cadê o Wally?
 int main() {
     int l, c;
     scanf("%d %d", &l, &c);
