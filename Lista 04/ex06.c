@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Cálculo da raiz quadrada
 double absoluto(double n) {
     if (n < 0) return -n;
     else return n;
