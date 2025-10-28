@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Matriz de permutação
 int ehPermutacao(int m[500][500], int n, int * soma) {
     int l, c;
     int checkup[500], p = 0, somaL, somaC;
