@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Fatorial
 unsigned long int fat(unsigned int n) {
     if (n <= 1) return 1;
     return n * fat(n - 1);
