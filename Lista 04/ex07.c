@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Escovando bits
 void print_byte(unsigned char const * pc) {
     int i;
     int w = 128;
