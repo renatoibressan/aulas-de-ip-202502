@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Número perfeito
 int somaDivisores(int n) {
     int i;
     int soma = 0;
