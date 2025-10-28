@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Desenha losango
 int main() {
     int losango[99][99], tam, fim;
     char borda, centro;
