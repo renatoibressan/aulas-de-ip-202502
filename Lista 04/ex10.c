@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Cálculo de PI
 double compute_pi(int n) {
     double x = 1.0;
     int i = 1, j = 1;
