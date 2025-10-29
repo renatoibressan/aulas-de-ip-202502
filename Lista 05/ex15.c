@@ -3,7 +3,7 @@
 #include <string.h>
 #define MAX_WORDS 200
 #define MAX_WORD_LEN 65
-
+// Separador de palavras
 int eh_delimitador(char c, char * del) {
     while (*del != '\0') {
         if (c == *del) return 1;
