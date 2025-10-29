@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Matriz bissimétrica
 int simetrica(int n, int m[n][n]) {
     int i, j;
     for (i = 0; i < n; i++) {
