@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Matriz Ordenada
 int main() {
     int n;
     scanf("%d", &n);
