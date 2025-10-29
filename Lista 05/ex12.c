@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Frequencia do Maior e Menor
 int main() {
     int l, c;
     scanf("%d %d", &l, &c);
