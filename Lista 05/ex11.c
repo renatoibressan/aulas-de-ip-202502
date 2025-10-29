@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Elementos únicos da Matriz 
 int main() {
     int l, c;
     scanf("%d %d", &l, &c);
